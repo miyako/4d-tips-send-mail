@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.0" xmlns:d4="http://www.4d.com/d4-ns">
+  <file datatype="x-STR#" original="undefined" product-version="v15" source-language="en-US" target-language="en-US">
+    <header>
+      <note>https://developers.google.com/gmail/api/auth/scopes</note>
+    </header>
+    <body>
+
+      <group resname="themes">
+        <trans-unit id="FE80986D7827455D808515B16040E369" resname="FE80986D7827455D808515B16040E369" translate="no">
+          <source>Gmail scopes</source>
+        </trans-unit>
+        <trans-unit id="DFEE0BEFEBDF4E4390B74048027A3303" resname="DFEE0BEFEBDF4E4390B74048027A3303" translate="no">
+          <source>Gmail endpoints</source>
+        </trans-unit>
+      </group>
+
+      <group d4:groupName="FE80986D7827455D808515B16040E369" restype="x-4DK#">
+        <trans-unit d4:value="https://www.googleapis.com/auth/gmail.readonly" id="FE80986D7827455D808515B16040E369.1">
+          <source>Gmail scope readonly</source>
+        </trans-unit>
+        <trans-unit d4:value="https://www.googleapis.com/auth/gmail.compose" id="FE80986D7827455D808515B16040E369.2">
+          <source>Gmail scope compose</source>
+        </trans-unit>
+        <trans-unit d4:value="https://www.googleapis.com/auth/gmail.send" id="FE80986D7827455D808515B16040E369.3">
+          <source>Gmail scope send</source>
+        </trans-unit>
+        <trans-unit d4:value="https://www.googleapis.com/auth/gmail.insert" id="FE80986D7827455D808515B16040E369.4">
+          <source>Gmail scope insert</source>
+        </trans-unit>
+        <trans-unit d4:value="https://www.googleapis.com/auth/gmail.labels" id="FE80986D7827455D808515B16040E369.5">
+          <source>Gmail scope labels</source>
+        </trans-unit>
+        <trans-unit d4:value="https://www.googleapis.com/auth/gmail.modify" id="FE80986D7827455D808515B16040E369.6">
+          <source>Gmail scope modify</source>
+        </trans-unit>
+        <trans-unit d4:value="https://mail.google.com/" id="FE80986D7827455D808515B16040E369.7">
+          <source>Gmail scope full access</source>
+        </trans-unit>
+      </group>
+
+      <group d4:groupName="DFEE0BEFEBDF4E4390B74048027A3303" restype="x-4DK#">
+        <trans-unit d4:value="https://accounts.google.com/o/oauth2/auth" id="DFEE0BEFEBDF4E4390B74048027A3303.1">
+          <source>Gmail endpoint authentication</source>
+        </trans-unit>
+        <trans-unit d4:value="https://accounts.google.com/o/oauth2/token" id="DFEE0BEFEBDF4E4390B74048027A3303.2">
+          <source>Gmail endpoint authorization</source>
+        </trans-unit>
+        <trans-unit d4:value="https://www.googleapis.com/gmail/v1/users/me/messages/send" id="DFEE0BEFEBDF4E4390B74048027A3303.3">
+          <source>Gmail endpoint send</source>
+        </trans-unit>
+      </group>
+
+
+    </body>
+  </file>
+</xliff>

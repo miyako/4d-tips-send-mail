@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.0" xmlns:d4="http://www.4d.com/d4-ns">
+  <file datatype="x-STR#" original="undefined" product-version="v15" source-language="en-US" target-language="en-US">
+    <header>
+      <note>4D Summit 2016</note>
+    </header>
+    <body>
+
+      <group resname="themes">
+        <trans-unit id="60670566F9714E2588CB0F737EF578F5" resname="60670566F9714E2588CB0F737EF578F5" translate="no">
+          <source>Gmail API credentials</source>
+        </trans-unit>
+      </group>
+
+      <group d4:groupName="60670566F9714E2588CB0F737EF578F5" restype="x-4DK#">
+        <trans-unit d4:value="" id="60670566F9714E2588CB0F737EF578F5.1">
+          <source>Gmail client ID</source>
+        </trans-unit>
+        <trans-unit d4:value="" id="60670566F9714E2588CB0F737EF578F5.2">
+          <source>Gmail client secret</source>
+        </trans-unit>
+      </group>
+
+    </body>
+  </file>
+</xliff>

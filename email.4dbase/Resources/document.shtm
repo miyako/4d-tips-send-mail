@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<!--#4deval $message:=OB Get:C1224($1;"message";Is text:K8:3)-->
+<!--#4deval $image:=OB Get:C1224($1;"image";Is text:K8:3)-->
+
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>4D Summit | HTML</title>
+		<style>
+		body {
+			font-family: sans-serif;
+		}
+		* {
+		  margin: 0;
+		  padding: 0;
+		}
+		html {
+
+		}
+		body {
+			background: #eee;
+		}
+		.sheet {
+			background: white;
+			box-shadow: 1mm 1mm 1mm rgba(0,0,0,.2);
+			width:60mm;
+			height:80mm;
+			margin-top: 5mm;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		.print-button-div {
+			transform: scale(2);
+			position: absolute;
+			left:197px;
+			margin-top:53px;
+		}
+		</style>
+	</head>
+	<body>
+		<div>
+			<section class="sheet">
+			<p><!--4dtext $message--></p>
+			<img src="cid:<!--#4dtext $image-->" />
+			</section>
+			</div>
+		</div>
+	</body>
+</html>

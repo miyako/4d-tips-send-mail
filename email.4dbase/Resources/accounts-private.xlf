@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.0" xmlns:d4="http://www.4d.com/d4-ns">
+  <file datatype="x-STR#" original="undefined" product-version="v15" source-language="en-US" target-language="en-US">
+    <header>
+      <note>4D Summit 2016</note>
+    </header>
+    <body>
+
+      <group resname="themes">
+        <trans-unit id="A443DC2BB7DA4D1B83919BC64966856E" resname="A443DC2BB7DA4D1B83919BC64966856E" translate="no">
+          <source>Account settings</source>
+        </trans-unit>
+      </group>
+
+      <group d4:groupName="A443DC2BB7DA4D1B83919BC64966856E" restype="x-4DK#">
+        <trans-unit d4:value="" id="A443DC2BB7DA4D1B83919BC64966856E.1">
+          <source>Account password for 4D</source>
+        </trans-unit>
+        <trans-unit d4:value="" id="A443DC2BB7DA4D1B83919BC64966856E.2">
+          <source>Account password for Gmail</source>
+        </trans-unit>
+        
+        <trans-unit d4:value="" id="A443DC2BB7DA4D1B83919BC64966856E.3">
+          <source>Server for 4D</source>
+        </trans-unit>
+        <trans-unit d4:value="" id="A443DC2BB7DA4D1B83919BC64966856E.4">
+          <source>User for 4D</source>
+        </trans-unit>
+        <trans-unit d4:value="" id="A443DC2BB7DA4D1B83919BC64966856E.5">
+          <source>Server for Gmail</source>
+        </trans-unit>
+        <trans-unit d4:value="" id="A443DC2BB7DA4D1B83919BC64966856E.6">
+          <source>User for Gmail</source>
+        </trans-unit>
+                
+      </group>
+
+    </body>
+  </file>
+</xliff>
